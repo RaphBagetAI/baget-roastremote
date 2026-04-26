@@ -1,0 +1,57 @@
+[
+  {
+    "id": "focus-ethiopia",
+    "name": "Ethiopia Yirgacheffe",
+    "persona": "The Focus",
+    "origin": "Yirgacheffe, Ethiopia",
+    "roast_level": "Light",
+    "tasting_notes": ["Jasmine", "Bergamot", "Lemon Zest"],
+    "process": "Washed",
+    "utility": "High clarity for deep work sessions.",
+    "seasonal_status": "Fresh Arrival (April 2026)"
+  },
+  {
+    "id": "flow-colombia",
+    "name": "Colombia Huila",
+    "persona": "The Flow",
+    "origin": "Acevedo, Huila, Colombia",
+    "roast_level": "Medium",
+    "tasting_notes": ["Milk Chocolate", "Red Apple", "Caramel"],
+    "process": "Washed (Mitaca)",
+    "utility": "Sustained focus for back-to-back meetings.",
+    "seasonal_status": "In Season (April 2026)"
+  },
+  {
+    "id": "catalyst-peru",
+    "name": "Peru Cajamarca",
+    "persona": "The Catalyst",
+    "origin": "Cajamarca, Peru",
+    "roast_level": "Light-Medium",
+    "tasting_notes": ["Raspberry Jam", "Molasses", "Peach"],
+    "process": "Washed",
+    "utility": "Juicy and bright for an afternoon boost.",
+    "seasonal_status": "Fresh Arrival (April 2026)"
+  },
+  {
+    "id": "ritual-guatemala",
+    "name": "Guatemala Huehuetenango",
+    "persona": "The Workday Ritual",
+    "origin": "Huehuetenango, Guatemala",
+    "roast_level": "Medium-Dark",
+    "tasting_notes": ["Orange Peel", "Toasted Almond", "Cocoa"],
+    "process": "Washed",
+    "utility": "Rich and smooth for a traditional Monday start.",
+    "seasonal_status": "Main Harvest (April 2026)"
+  },
+  {
+    "id": "finish-sumatra",
+    "name": "Sumatra Gayo Mountain",
+    "persona": "The Finish",
+    "origin": "Aceh, Sumatra",
+    "roast_level": "Dark",
+    "tasting_notes": ["Cedar", "Earth", "Dark Chocolate"],
+    "process": "Wet-Hulled",
+    "utility": "Grounding finish to close out the workday.",
+    "seasonal_status": "Shipping Now (April 2026)"
+  }
+]
